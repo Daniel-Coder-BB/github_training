@@ -1,2 +1,3 @@
-##Heyo everyone welcomte to my git guide
+##Welcome to GIt
 - yo Johnny here
+- this is coming from Bruno

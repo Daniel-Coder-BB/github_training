@@ -1,1 +1,2 @@
-##added this from feature branch
+##Heyo everyone welcomte to my git guide
+- yo Johnny here
